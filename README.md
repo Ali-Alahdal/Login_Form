@@ -4,6 +4,6 @@
 <a href="https://ali-alahdal.github.io/Login_Form/">View Page</a>
 
 
-<img src="images/Login Form.png" />
+<img src="/Login Form.png" />
 
 
